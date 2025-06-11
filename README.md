@@ -1,2 +1,2 @@
 ### hello!
-> computer engineering undergrad; interested in embedded development
+> recent computer engineering graduate; interested in embedded development
