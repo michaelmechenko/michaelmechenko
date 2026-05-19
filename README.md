@@ -1,2 +1,2 @@
-### hello!
-> recent computer engineering graduate; interested in embedded development
+### github profile page
+> "computer" "engineer"
