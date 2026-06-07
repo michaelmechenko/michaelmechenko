@@ -1,2 +1,2 @@
 ### github profile page
-> "computer" "engineer"
+> computer engineer with wonder and whimsy
